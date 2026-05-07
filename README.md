@@ -13,3 +13,6 @@ Built an end-to-end analytics solution using
 ### Impact:
 - Improved decision-making visibility
 - Enabled real-time performance monitoring
+
+
+![Alt Text](Business_KPI_Dashboard.jpg)
