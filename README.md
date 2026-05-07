@@ -15,4 +15,4 @@ Built an end-to-end analytics solution using
 - Enabled real-time performance monitoring
 
 
-![Alt Text](Business_KPI_Dashboard.jpg)
+![Alt Text](Business_KPI_Dashboard_output.jpg)
